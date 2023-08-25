@@ -1,0 +1,68 @@
+[
+  {
+    "id": 121244,
+    "image": "https://i.ibb.co/b5D6DyL/7-77391-businessman-transparent-business-man-png.jpg",
+    "name": "John Doe",
+    "position": "CEO",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/johndoe",
+      "twitter": "https://twitter.com/johndoe",
+      "instagram": "https://www.instagram.com/johndoe"
+    }
+  },
+  {
+    "id": 124412,
+    "image": "https://i.ibb.co/b5D6DyL/7-77391-businessman-transparent-business-man-png.jpg",
+    "name": "Jane Smith",
+    "position": "CTO",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/janesmith",
+      "twitter": "https://twitter.com/janesmith",
+      "facebook": "https://www.facebook.com/janesmith"
+    }
+  },
+  {
+    "id": 14212,
+    "image": "https://i.ibb.co/b5D6DyL/7-77391-businessman-transparent-business-man-png.jpg",
+    "name": "Michael Johnson",
+    "position": "COO",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/michaeljohnson",
+      "twitter": "https://twitter.com/michaeljohnson",
+      "github": "https://github.com/michaeljohnson"
+    }
+  },
+  {
+    "id": 12124,
+    "image": "https://i.ibb.co/b5D6DyL/7-77391-businessman-transparent-business-man-png.jpg",
+    "name": "Emily Williams",
+    "position": "Lead Designer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/emilywilliams",
+      "instagram": "https://www.instagram.com/emilywilliams",
+      "dribbble": "https://dribbble.com/emilywilliams"
+    }
+  },
+  {
+    "id": 11212,
+    "image": "https://i.ibb.co/b5D6DyL/7-77391-businessman-transparent-business-man-png.jpg",
+    "name": "Alex Lee",
+    "position": "Software Engineer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/alexlee",
+      "twitter": "https://twitter.com/alexlee",
+      "github": "https://github.com/alexlee"
+    }
+  },
+  {
+    "id": 1212,
+    "image": "https://i.ibb.co/b5D6DyL/7-77391-businessman-transparent-business-man-png.jpg",
+    "name": "Sophia Chen",
+    "position": "Marketing Manager",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/sophiachen",
+      "twitter": "https://twitter.com/sophiachen",
+      "facebook": "https://www.facebook.com/sophiachen"
+    }
+  }
+]
